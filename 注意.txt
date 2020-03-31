@@ -1,0 +1,4 @@
+复制static  +   seller  +   index下面的view
+
+static index admin下面的images都要删
+
